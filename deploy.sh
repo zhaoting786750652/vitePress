@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # git push -f https://github.com/zhaoting786750652/vitePress.git master
 
 # 部署码云 master是分支
-git push -f https://gitee.com/haerzt/vitePress.git master
+git push -f https://gitee.com/haerzt/vite-press.git master
 # 码云托管仓库地址：
 
 cd -
