@@ -20,10 +20,10 @@ git commit -m 'deploy'
 # git push -f git@github.com:zhaoting786750652/zhaoting786750652.github.io.git master
 
 # 如果是部署到 https://<USERNAME>.github.io/<REPO>
-# git push -f https://github.com/zhaoting786750652/vitePress.git master
+git push -f https://github.com/zhaoting786750652/vitePress.git master
 
-git push -f https://gitee.com/haerzt/vitePress.git master
-
-# git push -f https://github.com/zhaoting786750652/vitePress.git master
+# 部署码云
+# git push -f https://gitee.com/haerzt/vitePress.git master
+# 码云托管仓库地址：
 
 cd -
