@@ -3,6 +3,7 @@
 托管页面只部署dist下的文件，用gitee分支
 项目代码用master分支部署全部文件
 可以修改 deploy.sh里的命令，通过 yarn run docs:deploy 一键部署
+注意：公开的仓库才能开启托管
 
 # 部署码云page托管
 # 码云托管仓库地址：http://haerzt.gitee.io/vitepress/ 所以需要 config.js里 base: '/vitepress/',
