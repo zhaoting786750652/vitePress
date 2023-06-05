@@ -1,5 +1,6 @@
+
 export default {
-  base: '/',
+  base: '/vitepress/',
   title: '八股文', // 网站标题
   description: '学习文档总结', //网站描述
   cleanUrls: true, // 简洁化URL，即我们访问文件时不需要加后缀了，直接 /xxx/xxx即可，不要/xxx/xxx.md
@@ -22,7 +23,8 @@ export default {
     siteTitle: '个人学习文档',
     logo: '/logo.png',
     socialLinks: [//右上角图标和链接，icon 可用svg 配置
-      { icon: 'github', link: 'git@github.com:zhaoting786750652' },
+      { icon: 'github', link: 'https://zhaoting786750652.github.io/vitePress/' },
+      { icon: 'slack', link: 'http://haerzt.gitee.io/vitepress/'}
     ],
     //搜索
     algolia: {
